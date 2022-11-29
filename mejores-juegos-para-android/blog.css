@@ -154,6 +154,7 @@
 .blog-text01 {
   margin-top: var(--dl-space-space-twounits);
   text-align: center;
+  display: flex;
   padding-left: var(--dl-space-space-threeunits);
   margin-bottom: var(--dl-space-space-twounits);
   padding-right: var(--dl-space-space-threeunits);
