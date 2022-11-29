@@ -227,6 +227,8 @@
   }
   .blog-text01 {
     text-align: center;
+    display: flex;
+
   }
   .blog-image {
     width: 80%;
