@@ -343,4 +343,12 @@
   .mobile-menu {
     padding: 16px;
   }
+  .paragraph {
+    display: flex;
+    justify-content:space-between;
+    background-color: #3498db;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+  }
 }
