@@ -155,9 +155,9 @@
   margin-top: var(--dl-space-space-twounits);
   text-align: center;
   display: flex;
-  padding-left: 300px;
+  padding-left: var(--dl-space-space-threeunits);
   margin-bottom: var(--dl-space-space-twounits);
-  padding-right: 300px;
+  padding-right: var(--dl-space-space-threeunits);
 }
 .blog-button {
   transition: 0.3s;
